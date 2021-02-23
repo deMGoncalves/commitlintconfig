@@ -1,2 +1,2 @@
 # commitlintconfig
-$description
+commitlintconfig para ser estendido em seus projetos
